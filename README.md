@@ -1,5 +1,5 @@
 # CS550
-****
+
 
 ## Final project: 
 Recreate a scene from The Simpsons: The Third Dimension.
